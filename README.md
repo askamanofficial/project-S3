@@ -1,7 +1,8 @@
-#Hosting a Static Website on Amazon S3
+#Hosting a Static Website on Amazon S3#
 
-This project demonstrates how to deploy and host a static website using Amazon S3. S3 provides a scalable, reliable, and cost-effective solution for hosting websites without the need for a backend server. Features
+This project demonstrates how to deploy and host a static website using Amazon S3.S3 provides a scalable, reliable, and cost-effective solution for hosting websites without the need for a backend server.
 
+Features
 Simple deployment of static files (HTML, CSS, JavaScript)
 Secure and scalable hosting
 Custom domain support with Route 53(Optional)

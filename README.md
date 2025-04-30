@@ -41,6 +41,7 @@ Before you get started, ensure you have:
 - Add a policy like the following:
 
 ```json{
+{
   "Version": "2012-10-17",
   "Statement": [
     {
@@ -52,8 +53,9 @@ Before you get started, ensure you have:
     }
   ]
 }
+}
+```
 
-greet()
 
 *Access Your Website*
 

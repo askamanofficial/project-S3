@@ -1,4 +1,5 @@
 **🚀 Hosting a Static Website on Amazon S3**
+-
 
 Turn your S3 bucket into a highly available, blazing-fast website in just a few steps! AWS S3 makes it easy to serve static content with scalability and cost efficiency.
 

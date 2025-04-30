@@ -53,7 +53,7 @@ Before you get started, ensure you have:
     }
   ]
 }
-}
+
 ```
 
 

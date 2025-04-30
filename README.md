@@ -39,7 +39,8 @@ Before you get started, ensure you have:
 
 - Navigate to "Permissions" → "Bucket Policy."
 - Add a policy like the following:
-{
+
+```json{
   "Version": "2012-10-17",
   "Statement": [
     {
@@ -52,7 +53,9 @@ Before you get started, ensure you have:
   ]
 }
 
- *Access Your Website*
+greet()
+
+*Access Your Website*
 
 - Navigate to the "Static Website Hosting" section in S3 properties.
 - Use the provided URL to access your website.
